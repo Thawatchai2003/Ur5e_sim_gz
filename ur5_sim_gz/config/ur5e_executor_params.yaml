@@ -1,0 +1,3 @@
+ur5_executor_node:
+  ros__parameters:
+    speed_mode: "normal"
