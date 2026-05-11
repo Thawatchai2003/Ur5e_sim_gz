@@ -141,7 +141,7 @@ mkdir -p ~/ur5e_ws/src
 ### Description
 - `mkdir` : Create a new folder
 - `-p` : Create nested folders automatically
-- `~/UR5e_ws/src` : Workspace and source folder location
+- `~/ur5e_ws/src` : Workspace and source folder location
 
 ---
 
@@ -151,12 +151,12 @@ Clone the UR5e Voice Control package from GitHub into the workspace source folde
 
 ### Command
 ```bash
-cd ~/UR5e_ws
+cd ~/ur5e_ws
 
 git clone https://github.com/your_username/ur5e_voice_control.git
 ```
 
 ### Description
-- `cd ~/UR5e_ws/src` : Move to the ROS2 source folder
+- `cd ~/ur5e_ws/src` : Move to the ROS2 source folder
 - `git clone` : Download repository from GitHub
-- `UR5e_voice_control.git` : UR5e Voice Control repository
+- `ur5e_voice_control.git` : UR5e Voice Control repository
